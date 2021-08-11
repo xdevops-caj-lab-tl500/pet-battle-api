@@ -27,6 +27,9 @@ nsff:
   apiPort: 8501
   limit: 0.6
 
+# ServiceMonitor
+servicemonitor: false
+
 # do we deploy mongodb from a template (not helm chart)
 mongodbTemplate:
   enabled: true
