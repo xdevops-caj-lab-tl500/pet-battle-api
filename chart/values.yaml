@@ -27,6 +27,8 @@ nsff:
   apiPort: 8501
   limit: 0.6
 
+prometheusrules: {}
+
 # ServiceMonitor
 servicemonitor: false
 
