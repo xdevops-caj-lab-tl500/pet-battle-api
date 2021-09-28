@@ -2,6 +2,8 @@
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
+# Owner value
+
 # OpenShift objects
 route: true
 # if false use a kube deployment instead
