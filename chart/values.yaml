@@ -3,6 +3,7 @@
 # Declare variables to be passed into your templates.
 
 # Owner value
+owner: will
 
 # OpenShift objects
 route: true
